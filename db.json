@@ -1,0 +1,77 @@
+{
+	"empresa": [{
+		"id": 1,
+		"nome": "Santraffic",
+		"url": "https://www.santraffic.com.br",
+		"parceiro": [
+			"Adsense",
+			"Ad Exchange"
+		]
+	}],
+	"parceiro_programatica": [{
+			"id": 1,
+			"nome": "Adsense",
+			"url": "https://www.google.com.br/adsense/"
+		},
+		{
+			"id": 2,
+			"nome": "Ad Exchange",
+			"url": "https://admanager.google.com/home/"
+		},
+		{
+			"id": 3,
+			"nome": "Avants",
+			"url": "http://avantisvideo.com/"
+		},
+		{
+			"id": 4,
+			"nome": "Cazamba",
+			"url": "http://www.cazamba.com/"
+		},
+		{
+			"id": 5,
+			"nome": "Rubicon",
+			"url": "https://rubiconproject.com/"
+		},
+		{
+			"id": 6,
+			"nome": "Teads",
+			"url": "https://www.teads.com/login/"
+		},
+		{
+			"id": 7,
+			"nome": "Taboola",
+			"url": "https://www.taboola.com/pt"
+		},
+		{
+			"id": 8,
+			"nome": "SeedTag",
+			"url": "https://www.seedtag.com/pt/"
+		}
+	],
+	"historico_parceiro": [{
+		"id": 1,
+		"data": "01/01/2020",
+		"valor": "555,90",
+		"page_view": "9850",
+		"impressoes": "2000",
+		"parceiros": "Adsense",
+		"rpm": "10,50"
+	},
+	{
+		"id": 2,
+		"data": "01/01/2020",
+		"valor": "555,90",
+		"page_view": "9850",
+		"impressoes": "2000",
+		"parceiros": "Adsense",
+		"rpm": "20,50"
+	}
+],
+	"historico_analytics": [{
+		"id": 1,
+		"data": "01/01/2020",
+		"page_view": "9850",
+		"sessoes": "23",
+	}]
+}
