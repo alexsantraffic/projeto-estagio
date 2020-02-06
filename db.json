@@ -50,28 +50,28 @@
 		}
 	],
 	"historico_parceiro": [{
-		"id": 1,
-		"data": "01/01/2020",
-		"valor": "555,90",
-		"page_view": "9850",
-		"impressoes": "2000",
-		"parceiros": "Adsense",
-		"rpm": "10,50"
-	},
-	{
-		"id": 2,
-		"data": "01/01/2020",
-		"valor": "555,90",
-		"page_view": "9850",
-		"impressoes": "2000",
-		"parceiros": "Adsense",
-		"rpm": "20,50"
-	}
-],
+			"id": 1,
+			"data": "01/01/2020",
+			"valor": "555,90",
+			"page_view": "9850",
+			"impressoes": "2000",
+			"parceiros": "Adsense",
+			"rpm": "10,50"
+		},
+		{
+			"id": 2,
+			"data": "01/01/2020",
+			"valor": "555,90",
+			"page_view": "9850",
+			"impressoes": "2000",
+			"parceiros": "Adsense",
+			"rpm": "20,50"
+		}
+	],
 	"historico_analytics": [{
 		"id": 1,
 		"data": "01/01/2020",
 		"page_view": "9850",
-		"sessoes": "23",
+		"sessoes": "23"
 	}]
 }
