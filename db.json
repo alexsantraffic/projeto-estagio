@@ -368,36 +368,6 @@
 			"parceiros": "Adsense",
 			"rpm": "12,62",
 			"empresa": "Pausa do Café"
-		},
-		{
-			"id": 31,
-			"data": "02/01/2020",
-			"valor": "528,20",
-			"page_view": "234543",
-			"impressoes": "967543",
-			"parceiros": "Ad Exchange",
-			"rpm": "21,54",
-			"empresa": "Pausa do Café"
-		},
-		{
-			"id": 32,
-			"data": "02/01/2020",
-			"valor": "452,74",
-			"page_view": "5684",
-			"impressoes": "6453",
-			"parceiros": "Avants",
-			"rpm": "13,68",
-			"empresa": "Pausa do Café"
-		},
-		{
-			"id": 33,
-			"data": "02/01/2020",
-			"valor": "985,47",
-			"page_view": "1548",
-			"impressoes": "97874",
-			"parceiros": "Cazamba",
-			"rpm": "13,84",
-			"empresa": "Pausa do Café"
 		}
 	],
 	"historico_analytics": [{
