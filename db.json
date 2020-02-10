@@ -1,13 +1,33 @@
 {
 	"empresa": [{
-		"id": 1,
-		"nome": "Santraffic",
-		"url": "https://www.santraffic.com.br",
-		"parceiro": [
-			"Adsense",
-			"Ad Exchange"
-		]
-	}],
+			"id": 1,
+			"nome": "Santraffic",
+			"url": "https://www.santraffic.com.br",
+			"logo": "https://santraffic.com.br/wp-content/uploads/2020/01/logo_santraffic.png",
+			"parceiro": [
+				"Adsense",
+				"Ad Exchange",
+				"Avants",
+				"Cazamba",
+				"Rubicon",
+				"Teads",
+				"Taboola",
+				"SeedTag"
+			]
+		},
+		{
+			"id": 2,
+			"nome": "Pausa do Café",
+			"url": "https://pausadocafe.com/",
+			"logo": "https://pausadocafe.com/wp-content/uploads/2019/06/logo_transparente_fino.png",
+			"parceiro": [
+				"Adsense",
+				"Ad Exchange",
+				"Avants",
+				"Cazamba"
+			]
+		}
+	],
 	"parceiro_programatica": [{
 			"id": 1,
 			"nome": "Adsense",
@@ -52,26 +72,403 @@
 	"historico_parceiro": [{
 			"id": 1,
 			"data": "01/01/2020",
-			"valor": "555,90",
-			"page_view": "9850",
-			"impressoes": "2000",
+			"valor": "250,95",
+			"page_view": "11102",
+			"impressoes": "3043",
 			"parceiros": "Adsense",
-			"rpm": "10,50"
+			"rpm": "12,50",
+			"empresa": "Santraffic"
 		},
 		{
 			"id": 2,
 			"data": "01/01/2020",
 			"valor": "555,90",
-			"page_view": "9850",
-			"impressoes": "2000",
+			"page_view": "6250",
+			"impressoes": "156203",
+			"parceiros": "Ad Exchange",
+			"rpm": "20,50",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 3,
+			"data": "01/01/2020",
+			"valor": "1555,10",
+			"page_view": "1251",
+			"impressoes": "56483",
+			"parceiros": "Avants",
+			"rpm": "13,17",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 4,
+			"data": "01/01/2020",
+			"valor": "455,95",
+			"page_view": "7553",
+			"impressoes": "587111",
+			"parceiros": "Cazamba",
+			"rpm": "17,11",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 5,
+			"data": "01/01/2020",
+			"valor": "289,93",
+			"page_view": "6893",
+			"impressoes": "685213",
+			"parceiros": "Rubicon",
+			"rpm": "13,21",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 6,
+			"data": "01/01/2020",
+			"valor": "123,10",
+			"page_view": "6250",
+			"impressoes": "78123",
+			"parceiros": "Teads",
+			"rpm": "16,12",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 7,
+			"data": "01/01/2020",
+			"valor": "632,84",
+			"page_view": "62548",
+			"impressoes": "156203",
+			"parceiros": "Taboola",
+			"rpm": "13,87",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 8,
+			"data": "01/01/2020",
+			"valor": "1365,90",
+			"page_view": "74589",
+			"impressoes": "123658",
+			"parceiros": "SeedTag",
+			"rpm": "10,50",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 9,
+			"data": "02/01/2020",
+			"valor": "236,25",
+			"page_view": "3659",
+			"impressoes": "954783",
+			"parceiros": "Ad Exchange",
+			"rpm": "25,50",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 10,
+			"data": "02/01/2020",
+			"valor": "369,40",
+			"page_view": "5687",
+			"impressoes": "4213",
+			"parceiros": "Avants",
+			"rpm": "16,17",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 11,
+			"data": "02/01/2020",
+			"valor": "698,10",
+			"page_view": "9658",
+			"impressoes": "253698",
+			"parceiros": "Cazamba",
+			"rpm": "41,11",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 12,
+			"data": "02/01/2020",
+			"valor": "651,93",
+			"page_view": "9843",
+			"impressoes": "136598",
+			"parceiros": "Rubicon",
+			"rpm": "11,28",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 13,
+			"data": "02/01/2020",
+			"valor": "369,20",
+			"page_view": "9876",
+			"impressoes": "236597",
+			"parceiros": "Teads",
+			"rpm": "13,19",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 14,
+			"data": "02/01/2020",
+			"valor": "7955,42",
+			"page_view": "6362",
+			"impressoes": "9884",
+			"parceiros": "Taboola",
+			"rpm": "16,83",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 15,
+			"data": "02/01/2020",
+			"valor": "3659,52",
+			"page_view": "5628",
+			"impressoes": "9956",
+			"parceiros": "SeedTag",
+			"rpm": "32,50",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 16,
+			"data": "02/01/2020",
+			"valor": "964,78",
+			"page_view": "36595",
+			"impressoes": "236597",
+			"parceiros": "SeedTag",
+			"rpm": "18,34",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 17,
+			"data": "03/01/2020",
+			"valor": "365,10",
+			"page_view": "12587",
+			"impressoes": "62549",
+			"parceiros": "SeedTag",
+			"rpm": "30,34",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 18,
+			"data": "03/01/2020",
+			"valor": "458,21",
+			"page_view": "2357",
+			"impressoes": "85462",
+			"parceiros": "Ad Exchange",
+			"rpm": "28,17",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 19,
+			"data": "03/01/2020",
+			"valor": "652,47",
+			"page_view": "6589",
+			"impressoes": "25874",
+			"parceiros": "Avants",
+			"rpm": "14,26",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 20,
+			"data": "03/01/2020",
+			"valor": "147,07",
+			"page_view": "6954",
+			"impressoes": "258746",
+			"parceiros": "Cazamba",
+			"rpm": "14,74",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 21,
+			"data": "03/01/2020",
+			"valor": "111,92",
+			"page_view": "52641",
+			"impressoes": "95475",
+			"parceiros": "Rubicon",
+			"rpm": "14,32",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 22,
+			"data": "03/01/2020",
+			"valor": "425,21",
+			"page_view": "4529",
+			"impressoes": "102697",
+			"parceiros": "Teads",
+			"rpm": "3,80",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 23,
+			"data": "03/01/2020",
+			"valor": "1265,15",
+			"page_view": "98745",
+			"impressoes": "25468",
+			"parceiros": "Taboola",
+			"rpm": "14,18",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 24,
+			"data": "03/01/2020",
+			"valor": "6598,20",
+			"page_view": "1264",
+			"impressoes": "9745",
+			"parceiros": "SeedTag",
+			"rpm": "27,54",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 25,
+			"data": "03/01/2020",
+			"valor": "659,94",
+			"page_view": "85426",
+			"impressoes": "21568",
+			"parceiros": "SeedTag",
+			"rpm": "16,24",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 26,
+			"data": "01/01/2020",
+			"valor": "637,32",
+			"page_view": "958745",
+			"impressoes": "1582",
 			"parceiros": "Adsense",
-			"rpm": "20,50"
+			"rpm": "9,65",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 27,
+			"data": "01/01/2020",
+			"valor": "637,32",
+			"page_view": "958745",
+			"impressoes": "1582",
+			"parceiros": "Ad Exchange",
+			"rpm": "14,41",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 28,
+			"data": "01/01/2020",
+			"valor": "135,74",
+			"page_view": "45893",
+			"impressoes": "8965",
+			"parceiros": "Avants",
+			"rpm": "13,53",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 29,
+			"data": "01/01/2020",
+			"valor": "136,32",
+			"page_view": "4587",
+			"impressoes": "7456",
+			"parceiros": "Cazamba",
+			"rpm": "12,65",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 30,
+			"data": "02/01/2020",
+			"valor": "126,11",
+			"page_view": "154365",
+			"impressoes": "9856",
+			"parceiros": "Adsense",
+			"rpm": "12,62",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 31,
+			"data": "02/01/2020",
+			"valor": "528,20",
+			"page_view": "234543",
+			"impressoes": "967543",
+			"parceiros": "Ad Exchange",
+			"rpm": "21,54",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 32,
+			"data": "02/01/2020",
+			"valor": "452,74",
+			"page_view": "5684",
+			"impressoes": "6453",
+			"parceiros": "Avants",
+			"rpm": "13,68",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 33,
+			"data": "02/01/2020",
+			"valor": "985,47",
+			"page_view": "1548",
+			"impressoes": "97874",
+			"parceiros": "Cazamba",
+			"rpm": "13,84",
+			"empresa": "Pausa do Café"
 		}
 	],
 	"historico_analytics": [{
-		"id": 1,
-		"data": "01/01/2020",
-		"page_view": "9850",
-		"sessoes": "23"
-	}]
+			"id": 1,
+			"data": "01/01/2020",
+			"page_view": "33655",
+			"sessoes": "31548",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 2,
+			"data": "02/01/2020",
+			"page_view": "35287",
+			"sessoes": "30051",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 3,
+			"data": "03/01/2020",
+			"page_view": "27952",
+			"sessoes": "21659",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 4,
+			"data": "04/01/2020",
+			"page_view": "25156",
+			"sessoes": "16726",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 5,
+			"data": "05/01/2020",
+			"page_view": "18656",
+			"sessoes": "15448",
+			"empresa": "Pausa do Café"
+		},
+		{
+			"id": 6,
+			"data": "01/01/2020",
+			"page_view": "49852",
+			"sessoes": "40658",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 7,
+			"data": "02/01/2020",
+			"page_view": "47856",
+			"sessoes": "39854",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 8,
+			"data": "03/01/2020",
+			"page_view": "36887",
+			"sessoes": "32054",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 9,
+			"data": "04/01/2020",
+			"page_view": "86521",
+			"sessoes": "75003",
+			"empresa": "Santraffic"
+		},
+		{
+			"id": 10,
+			"data": "05/01/2020",
+			"page_view": "98512",
+			"sessoes": "45001",
+			"empresa": "Santraffic"
+		}
+	]
 }
